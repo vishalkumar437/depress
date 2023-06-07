@@ -7,6 +7,7 @@ import tensorflow as tf
 
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
+nltk.data.path.append("nltk_data")
 
 stemmer = LancasterStemmer()
 

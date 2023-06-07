@@ -7,6 +7,7 @@ import json
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
 stemmer = LancasterStemmer()
+nltk.data.path.append("nltk_data")
 
 app = Flask(__name__)
 
