@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/vishal4814/depress/chatbot.tflearn"
+all_model_checkpoint_paths: "/home/vishal4814/depress/chatbot.tflearn"
